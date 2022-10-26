@@ -37,8 +37,8 @@ The input will always be an integer. Write unit tests - all should pass.
 > The Person class should have a first name, last name, and age attribute with their own getters and setters. 
 > It should also have functionality for the person to introduce themselves. 
 > Using the Person class, you will create several Person instances that introduce themselves.
-- [ ] Implementation
-- [ ] Unit tests
+- [x] Implementation
+- [x] Unit tests
 ### Challenge 6 - 100 days from now
 - [ ] Implementation
 - [ ] Unit tests
